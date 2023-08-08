@@ -1413,6 +1413,9 @@
       }
     } ],
     "results" : [ ],
+    "automationDetails" : {
+      "id" : "python/"
+    },
     "columnKind" : "unicodeCodePoints",
     "properties" : {
       "metricResults" : [ {
